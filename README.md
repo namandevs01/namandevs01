@@ -92,9 +92,6 @@
 	<a href='https://leetcode.com/namandevs01/'>
 		<img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'>
 	</a>
-	<a href='https://twitter.com/lirena00'>
-		<img src='https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white'>
-	</a>
 	<img src="https://komarev.com/ghpvc/?username=NaMaNdEvS01&style=for-the-badge&color=1f6feb" alt="Profile views" />
 </div>
 
