@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Naman and I'm a Software Engineer</p>
+<p align="left">My name is Naman and I'm a Full Stack Developer who loves crafting clean, scalable web applications. My Goal is to build solutions that offer both exceptional performance and a delightful user experience.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2 years<br>📚 I'm currently learning Java<br>🎯 Goals: Making Some Creative Projects<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2 years<br>📚 I'm currently learning Java, React, TailwindCSS<br>🎯 Goals: Making Some Creative Projects</p>
 
 ###
 
